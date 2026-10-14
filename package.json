@@ -1,0 +1,16 @@
+{
+  "name": "novara-rf-ticket",
+  "version": "1.0.0",
+  "description": "Discord Ticket Bot for NOVARA RF",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": ["discord", "ticket", "bot"],
+  "author": "Antigravity",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^14.18.0",
+    "dotenv": "^16.4.7"
+  }
+}
